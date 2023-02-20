@@ -1,0 +1,15 @@
+1. php echo,Variable,data types,print,concat,difference,between print
+and echo, Function,Parameter, Argument,
+2.if ,else;
+
+= value assign, == value same , === date type same
+> ,< ,<=, >=,!=,<>,printf ,Array,Associative Array;
+gettype,print_r,var_dump;
+For While; do while loop;
+
+foreach loop; Constant ,difference between Constant and Variable;
+Super Globals list;
+get ,post,request,session; login,include,include once;
+
+
+

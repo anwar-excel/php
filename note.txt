@@ -9,7 +9,7 @@ For While; do while loop;
 
 foreach loop; Constant ,difference between Constant and Variable;
 Super Globals list;
-get ,post,request,session; login,include,include once;
+get ,post,request,session; login,include,include once;error type; cookie;
 
 
 
